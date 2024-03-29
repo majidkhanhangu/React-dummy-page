@@ -1,0 +1,79 @@
+.sahara{
+display: flex;
+background-size: cover;
+border-radius: 1%;
+background-image: url(https://i.pinimg.com/originals/3d/ab/6a/3dab6a0183a13ba2c7a81d454a7c9b3a.jpg);
+}
+.cols{
+margin-top: 150px;
+}
+.cols h1{
+font-size: 80px;
+color:  yellow;
+font-family: "Rubik Glitch Pop", system-ui;
+margin-left: 50px;
+}
+.cols p{
+ font-family: "Sofia", sans-serif;
+font-size: 16px;
+color: yellow;
+margin-left: 50px;
+}
+
+ .card{
+display: inline-block;
+border-radius: 10px;
+padding: 15px 25px;
+box-sizing: border-box;
+cursor: pointer;
+margin: 10px 15px;
+transition: transform 0.5s;
+width: 200px;
+height: 230px;
+transition: transform 0.6s;
+
+
+ }
+ .card h5{
+  font-family: "Sofia", sans-serif;
+ }
+ 
+
+ .card1{
+background-size: cover;
+ background-image: url(https://hongkongfp.com/wp-content/uploads/2016/01/16.jpg);
+ }
+.card2{
+ background-size: cover;
+background-image: url(https://cdn.i-scmp.com/sites/default/files/styles/portrait/public/d8/images/methode/2021/06/15/ec716968-cd83-11eb-9df2-a2e8f9e635cd_image_hires_110057.jpg?itok=deYhjXiO&v=1623726066);
+}
+.card3{
+background-size: cover;
+background-image: url(https://www.discoverhongkong.com/content/dam/dhk/intl/explore/neighbourhoods/interactive-map/attractions/stanley-market-640x480.jpg);
+}
+.card4{
+background-size: cover;
+background-image: url(https://img.hktdc.com/eyJidWNrZXQiOiJjbXMtaW1nbGliLXByZCIsImtleSI6IlJNSVAvMjAyMDA0MjgvOG04bWliZS1jMmgxZEhSbGNuTjBiMk5yWHpJeU1qSTVNelkzTnc9PS5qcGVnIiwicmVnaW9uIjoiYXAtc291dGhlYXN0LTEiLCJmb3JtYXQiOiJqcGVnIiwicXVhbGl0eSI6MTAwLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgwMCwiaGVpZ2h0Ijo0NTAsImZpdCI6ImNvdmVyIn19fQ==);
+}
+.card:hover{
+      transform: translateY(-10px);
+    }   
+
+  /* responsive main-section */
+  @media (max-width: 786px){
+    .cols h1{
+      font-size: 30px;
+    }
+   
+    .card{
+      width: 110px;
+      height: 110px;
+    }
+    .card h5{
+     font-size: 10px;
+    }
+    .card p{
+      font-size: 10px;
+    }
+
+  }

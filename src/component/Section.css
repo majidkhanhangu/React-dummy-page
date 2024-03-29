@@ -1,0 +1,230 @@
+.place1{
+      border-radius: 10px;
+      padding: 15px 25px;
+      cursor: pointer;
+      justify-content: space-between;
+      background-image: url(https://images.chinahighlights.com/allpicture/2018/02/452dc27537ad4cc2b41328a6_cut_800x500_61.webp);
+      background-size: cover;
+      margin: 10px 15px;
+      transition: transform 0.5s;
+      align-items: center;
+      width: 450px;
+      height: 400px;
+      font-family: "Sofia", sans-serif;
+      color: white;
+      font-size: 40px;
+}
+.vister{
+color: yellow;
+font-family: "Sofia", sans-serif;
+}
+.Section{
+display: flex;
+flex-direction: row;
+background-size: cover;
+margin-top: 50px;
+}
+.place2{
+background-image: url(https://images.chinahighlights.com/allpicture/2014/05/hong-konge443bd648b38_cut_800x500_61.webp);
+background-size: cover;
+border-radius: 10px;
+padding: 15px 25px;
+cursor: pointer;
+justify-content: space-between;
+margin: 10px 15px;
+transition: transform 0.5s;
+align-items: center;
+width: 450px;
+height: 400px;
+font-family: "Sofia", sans-serif;
+color: white;
+font-size: 40px;
+}
+.place3{
+background-image: url(https://images.chinahighlights.com/allpicture/2014/07/3d4efc8743374d099279beee_cut_800x500_61.webp);
+background-size: cover;
+border-radius: 10px;
+padding: 15px 25px;
+cursor: pointer;
+justify-content: space-between;
+margin: 10px 15px;
+transition: transform 0.5s;
+align-items: center;
+width: 450px;
+height: 400px;
+font-family: "Sofia", sans-serif;
+color: white;
+font-size: 40px;
+}
+
+.Part2{
+display: flex;
+}
+
+.place4{
+      background-image: url(https://images.chinahighlights.com/allpicture/2016/03/6fd441db31134897a1cc7b1a_cut_800x500_61.webp);
+      background-size: cover;
+      border-radius: 10px;
+      padding: 15px 25px;
+      cursor: pointer;
+      justify-content: space-between;
+      margin: 10px 15px;
+      transition: transform 0.5s;
+      align-items: center;
+      width: 450px;
+      height:400px;
+      font-family: "Sofia", sans-serif;
+      color: white;
+      font-size: 40px;
+      }
+      .place5{
+            background-image: url(https://images.chinahighlights.com/allpicture/2019/03/0c94cc827f894c68a95d40a2_cut_800x500_61.webp);
+            background-size: cover;
+            border-radius: 10px;
+            padding: 15px 25px;
+            cursor: pointer;
+            justify-content: space-between;
+            margin: 10px 15px;
+            transition: transform 0.5s;
+            align-items: center;
+            width: 450px;
+            height:400px;
+            font-family: "Sofia", sans-serif;
+            color: white;
+            font-size: 40px;
+            }
+.place6{
+background-image: url(https://a.travel-assets.com/findyours-php/viewfinder/images/res70/464000/464109-Hong-Kong.jpg);
+background-size: cover;
+border-radius: 10px;
+padding: 15px 25px;
+cursor: pointer;
+justify-content: space-between;
+margin: 10px 15px;
+transition: transform 0.5s;
+align-items: center;
+width: 450px;
+height: 400px;
+font-family: "Sofia", sans-serif;
+color: white;
+font-size: 40px;
+ }
+.place7{
+background-image: url(https://images.chinahighlights.com/allpicture/2014/07/a75e71599fcc40d1b72fb2b8_cut_800x534_349.webp);
+background-size: cover;
+border-radius: 10px;
+padding: 15px 25px;
+cursor: pointer;
+justify-content: space-between;
+margin: 10px 15px;
+transition: transform 0.5s;
+align-items: center;
+width: 450px;
+height: 400px;
+font-family: "Sofia", sans-serif;
+color: white;
+font-size: 40px;
+}
+.place8{
+background-image: url(https://images.chinahighlights.com/allpicture/2021/10/50c6012378504ff3a025d295_cut_800x500_9.webp);
+background-size: cover;
+border-radius: 10px;
+padding: 15px 25px;
+cursor: pointer;
+justify-content: space-between;
+margin: 10px 15px;
+transition: transform 0.5s;
+align-items: center;
+width: 450px;
+ height: 400px;
+ font-family: "Sofia", sans-serif;
+ color: white;
+ font-size: 40px;
+          }
+ .place9{
+ background-image: url(https://images.chinahighlights.com/allpicture/2018/03/b95b70ce66a943fcba0d113f_cut_600x550_251.webp);
+ background-size: cover;
+ border-radius: 10px;
+ padding: 15px 25px;
+ cursor: pointer;
+margin: 10px 15px;
+width: 450px;
+ height: 400px;
+  font-family: "Sofia", sans-serif;
+  color: white;
+   font-size: 40px;
+}
+
+ /* responsive the section part */
+ @media (max-width: 786px){
+.vister{
+font-size: 20px;
+}
+.place1{
+width: 100px;
+height: 100px;
+}
+.place1 h5{
+font-size: 10px;
+}
+.place2{
+ width: 100px;
+ height: 100px;
+ }
+.place2 h5{
+font-size: 10px;
+}
+.place3{
+ width: 100px;
+ height: 100px;
+ }
+.place3 h5{
+ font-size: 10px;
+ }
+ .place4{
+ width: 100px;
+height: 100px;
+}
+.place4 h5{
+font-size: 10px;
+}
+.place5{
+width: 100px;
+height: 100px;
+}
+.place5 h5{
+font-size: 10px;
+}
+.place6{
+width: 100px;
+height: 100px;
+}
+.place6 h5{
+font-size: 10px;
+}
+.place7{
+width: 100px;
+height: 100px;
+}
+.place7 h5{
+font-size: 10px;
+}
+.place8{
+width: 100px;
+height: 100px;
+}
+.place8 h5{
+font-size: 10px;
+}
+.place9{
+width: 100px;
+height: 100px;
+}
+.place9 h5{
+font-size: 10px;
+}
+ }
+                                    
+                              
+                            
+            

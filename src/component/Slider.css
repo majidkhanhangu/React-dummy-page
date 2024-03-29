@@ -1,0 +1,30 @@
+.slider-carosel{
+      margin-top: 100px;
+}
+.slider-carosel h1{
+font-family: "Sofia", sans-serif ; ;
+}
+
+.bard{
+width: 400px;
+height: 460px;
+border-radius: 10px;
+margin-top: 50px;
+}
+.bard img{
+width: 100%;
+height: 88%;
+border-radius: 10px;
+}
+.bard h1{
+font-family:"Sofia", sans-serif ;
+/* font-size: 30px; */
+}
+/* slider responsive */
+@media (max-width: 786px){
+      .bard{
+    width: 96%;
+    margin-left: 8px;
+      }
+
+}

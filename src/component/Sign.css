@@ -1,0 +1,55 @@
+.Sign-up-div{
+background-image: url(https://www.fodors.com/wp-content/uploads/2018/10/07_Hong-Kong-Outdoors_Lantau-Island_shutterstock_602472836.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 500px;
+
+}
+
+.sign-up-inner h1{
+font-family:"Sofia", sans-serif ;   
+}
+.sign-up-inner p{
+      font-family:"Sofia", sans-serif ;   
+      }
+.input-1{
+width: 450px;
+height: 40px;
+
+}
+.input-2{
+      width: 450px;
+      height: 40px;
+}
+.button-div{
+border: 3px solid white;
+}
+/* responsive the sign section */
+@media (max-width: 786px){
+.Sign-up-div{
+width: 90%;
+margin-left: 20px;
+border-radius: 5%;
+}
+.sign-up-form{
+display: inline-block;
+}
+.input-1{
+width: 100%;
+margin-left: 25px;
+border-radius: 5%;
+}
+.input-2{
+      width: 100%;
+      margin-left: 25px;
+      border-radius: 5%;
+      }
+.sign-up-inner h1{
+font-size: 20px;
+}
+.sign-up-inner p{
+      font-size: 15px;
+
+      }
+}

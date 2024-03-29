@@ -1,0 +1,40 @@
+.Famous-1 h1{
+font-family:"Sofia", sans-serif ;      
+}
+.Famous-1{
+border-top: 3px solid gray;
+}
+.Famous{
+display: flex;
+margin-top: 100px;
+}
+.Famous-pic img{
+width: 600px;
+height: 600px;
+border-radius: 30px;
+margin: 10px 15px;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+.Famous h1{
+      font-family:"Sofia", sans-serif ; 
+}
+/* responsive the famous section */
+@media (max-width: 786px){
+      .Famous{
+      display: inline-block;
+      }
+      .Famous-pic{
+      width: 90%;
+      margin-top: 0%;
+      }
+      .haz{
+      font-size: 18px;
+      margin-left: 12px;
+      }
+      .haz-small{
+      font-size: 12px;
+      }
+}
