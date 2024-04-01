@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-dummy-page/static/css/main.2b9b8a45.css",
+    "main.js": "/React-dummy-page/static/js/main.d5bc5cb1.js",
+    "static/js/453.ed3810f9.chunk.js": "/React-dummy-page/static/js/453.ed3810f9.chunk.js",
+    "static/media/body-image.jpg": "/React-dummy-page/static/media/body-image.5620e92b6e9e50442aa8.jpg",
+    "static/media/hong-kong-logo-black-.png": "/React-dummy-page/static/media/hong-kong-logo-black-.1e6f424aee76e956bb0d.png",
+    "static/media/revicons.eot": "/React-dummy-page/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/React-dummy-page/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/React-dummy-page/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/React-dummy-page/index.html",
+    "main.2b9b8a45.css.map": "/React-dummy-page/static/css/main.2b9b8a45.css.map",
+    "main.d5bc5cb1.js.map": "/React-dummy-page/static/js/main.d5bc5cb1.js.map",
+    "453.ed3810f9.chunk.js.map": "/React-dummy-page/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9b8a45.css",
+    "static/js/main.d5bc5cb1.js"
+  ]
+}
